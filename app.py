@@ -6,8 +6,6 @@ st.caption('下記顧客分析スプレッドに本日付けでシートを追�
 st.caption('既に同じ日付のシートが存在しないことを確認してください。')
 st.caption('同じ日付のシートが存在している場合は、事前に該当シートを削除してください。')
 
-https://docs.google.com/spreadsheets/d/1bC0Hs9C0rAS33BavF-E1yNwwGwqe8vsmRzodQt04esI/edit#gid=0
-
 if st.button("リスト作成"):
 
   import gspread
